@@ -1,0 +1,16 @@
+Proprietäre Lizenz
+
+Copyright (c) 2024 SonnerStudio. Alle Rechte vorbehalten.
+
+Diese Software und die zugehörigen Dokumentationsdateien (die "Software") sind durch das Urheberrecht geschützt.
+Der Eigentümer dieser Software behält sich alle geistigen Eigentumsrechte vor, einschließlich, aber nicht beschränkt
+auf die Rechte zur Nutzung, Vervielfältigung, Änderung, Zusammenführung, Veröffentlichung, Verteilung, Unterlizenzierung
+und/oder zum Verkauf von Kopien der Software. Keiner Person, die eine Kopie dieser Software erhält, wird ohne ausdrückliche
+schriftliche Genehmigung des Urheberrechtsinhabers die Erlaubnis erteilt, die Software zu nutzen, zu kopieren, zu modifizieren,
+zusammenzuführen, zu veröffentlichen, zu vertreiben, zu unterlizenzieren oder zu verkaufen.
+
+DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIEßLICH, ABER NICHT BESCHRÄNKT
+AUF DIE GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER. IN
+KEINEM FALL HAFTEN DIE AUTOREN ODER URHEBERRECHTSINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNG, OB AUS VERTRAG,
+UNERLAUBTER HANDLUNG ODER ANDERWEITIG, DIE SICH AUS DER SOFTWARE ODER DER NUTZUNG ODER DEM SONSTIGEN UMGANG MIT DER SOFTWARE
+ERGEBEN ODER DAMIT IN VERBINDUNG STEHEN. 
